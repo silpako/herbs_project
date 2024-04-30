@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468117386075",
+    "project_id": "herb-b8b92",
+    "storage_bucket": "herb-b8b92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468117386075:android:688eae8bbf8294004be07e",
+        "android_client_info": {
+          "package_name": "com.example.fresh_herbs_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VWzCR97Y98_X9zuqLQ2QTUCKPy0p5NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
